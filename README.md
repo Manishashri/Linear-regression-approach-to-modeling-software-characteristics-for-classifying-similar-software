@@ -1,0 +1,2 @@
+# Linear-regression-approach-to-modeling-software-characteristics-for-classifying-similar-software
+Linear regression is one approach among various machine learning methods that are applied to solve problems by constructing a model from training with previously known data.  In this paper, we present a linear regression approach to solve in area of software analysis for identifying similar software.
